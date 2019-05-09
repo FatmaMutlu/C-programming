@@ -1,0 +1,7 @@
+ kelimesini bulduktan sonra satýr sonuna kadar yazdýrýr.
+ için  ilk T ye bakar varsa sayac artar  AÞAMA :T  SAYAÇ:1
+ için ikinci deger için O ya bakar ve sayacý kontrol eder.Varsa Sayac artar  AÞAMA:TO    SAYAÇ:2
+ için üçüncü deger için D ya bakar ve sayacý kontrol eder.Varsa Sayac artar  AÞAMA:TOD    SAYAÇ:3
+ için dördüncü deger için O ya bakar ve sayacý kontrol eder.Varsa Sayac artar  AÞAMA:TODO    SAYAÇ:2
+ bulunamaz.Sayac 0 olur.Sýrasýyla T,O,D ve O yu kontrol etmelidir.
+ bulundu sayac 4 oldugu için todoBulmaDurumu durumu aktif oldu
